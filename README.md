@@ -1,6 +1,7 @@
 # trinks-teste
 
 Números Felizes e Sortudos
+
 O programa deve identificar para um dado número se este é um número feliz e se é um número sortudo.
 
 *** Números Felizes ***
