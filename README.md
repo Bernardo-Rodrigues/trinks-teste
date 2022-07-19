@@ -8,12 +8,12 @@ O programa deve identificar para um dado número se este é um número feliz e s
 
 Um número é considerado feliz, se em algum ponto a soma de seus dígitos ao quadrado equivale a 1.
 
-Ex: 7 é um número feliz? 
-7² = 49 
-4² + 9² = 97 
-9² + 7² = 130 
-1² + 3² + 0² = 10 
-1² + 0² = 1 
+Ex: 7 é um número feliz? <br/>
+7² = 49 <br/>
+4² + 9² = 97 <br/>
+9² + 7² = 130 <br/>
+1² + 3² + 0² = 10 <br/>
+1² + 0² = 1 <br/>
 
 Logo, 7 é um número feliz. No seu programa você deve considerar um máximo de 100 iterações.
 
