@@ -46,3 +46,17 @@ Casos de Teste
 4) 142 – Número Não-Sortudo e Não-Feliz
 5) 37 – Número Sortudo e Não-Feliz
 6) 100 – Número Não-Sortudo e Feliz.
+
+## Como rodar
+
+1. Clone esse repositório
+
+2. Instale as dependências
+```bash
+npm i
+```
+
+3. Rode os testes:
+```bash
+npm t
+```
